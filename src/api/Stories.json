@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "image": "./img/woman-sitting-near-plants-and-fence-3099180.jpg-optimized-1024x683.webp",
+    "button": "TRAVEL",
+    "title": "Odio facilisis mauris sit amet massa",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Tempor id eu nisl nunc mi ipsum faucibus vitae. Praesent semper feugiat nibh sed pulvinar proin. Justo laoreet sit amet cursus. Urna cursus eget nunc…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  },
+  {
+    "id": 1,
+    "image": "./img/high-angle-photo-of-two-women-with-string-lights-2737022.jpg-optimized-1024x671.webp",
+    "button": "LIFESTYLE",
+    "title": "Sagittis vitae et leo duis",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Id diam maecenas ultricies mi eget. Egestas egestas fringilla phasellus faucibus. Vestibulum lectus mauris ultrices eros in cursus turpis massa tincidunt. Donec enim diam vulputate…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "image": "./img/two-smiling-women-3097303.jpg-optimized-768x512.webp",
+    "button": "ARCHITECTURE",
+    "title": "Tempus egestas vivamus arcu felis",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Arcu dui vivamus arcu felis bibendum ut tristique et Sit amet justo donec enim. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Morbi tincidunt…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  },
+  {
+    "id": 2,
+    "image": "./img/photo-of-woman-wearing-yellow-jacket-2755165.jpg-optimized-768x1024.webp",
+    "button": "LIFESTYLE",
+    "title": "Viverra nibh cras pulvinar mattis nunc sed blandit",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Dui accumsan sit amet nulla facilisi morbi tempus iaculis. Suscipit adipiscing bibendum est ultricies integer quis. Rutrum tellus pellentesque eu tincidunt. Nunc faucibus a pellentesque…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  },
+  {
+    "id": 3,
+    "image": "./img/photo-of-person-holding-camera-3014013.jpg-optimized-1024x684.webp",
+    "button": "TRAVEL",
+    "title": "Nunc lobortis mattis aliquam faucibus",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Arcu dui vivamus arcu felis bibendum ut tristique et Sit amet justo donec enim. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Morbi tincidunt…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  },
+  {
+    "id": 4,
+    "image": "./img/assorted-title-books-collection-2067569.jpg-optimized-768x1024.webp",
+    "button": "TRAVEL",
+    "title": "Elit eget gravida cum sociis",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Arcu dui vivamus arcu felis bibendum ut tristique et Sit amet justo donec enim. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Morbi tincidunt…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  },
+  {
+    "id": 5,
+    "image": "./img/man-in-black-jacket-and-brown-hat-standing-on-rock-near-lake-3217911.jpg-optimized-683x1024.webp",
+    "button": "ARCHITECTURE",
+    "title": "Amet cursus sit amet dictum sit amet justo    ",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "iconcon": {
+      
+    }
+  },
+  {
+    "id": 6,
+    "image": "./img/woman-doing-splits-2923592.jpg-optimized-683x1024.webp",
+    "button": "LIFESTYLE",
+    "title": "Ipsum dolor sit amet consectetur adipiscing",
+    "dete": "by Melisa Sawyer on September 11, 2022",
+    "body": "Arcu dui vivamus arcu felis bibendum ut tristique et Sit amet justo donec enim. Velit ut tortor pretium viverra suspendisse potenti nullam ac. Morbi tincidunt…",
+    "iconcon": {
+      "Watch": "3 min read",
+      "Visibility": "6,110 views",
+      "Chat": "3 Comments"
+    }
+  }
+]
